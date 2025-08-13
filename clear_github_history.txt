@@ -12,4 +12,3 @@ $ git branch -m main
 
 $ git push -f origin main
 
-$ git push -d develop
